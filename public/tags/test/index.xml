@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>自在狗咖</title>
-    <link>soulise.github.io/</link>
-    <description>Recent content on 自在狗咖</description>
+    <title>test on 自在狗咖</title>
+    <link>soulise.github.io/tags/test/</link>
+    <description>Recent content in test on 自在狗咖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 02 Sep 2023 02:27:04 +0800</lastBuildDate><atom:link href="soulise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 02 Sep 2023 02:27:04 +0800</lastBuildDate><atom:link href="soulise.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
       <link>soulise.github.io/posts/test/</link>
@@ -14,15 +14,6 @@
       
       <guid>soulise.github.io/posts/test/</guid>
       <description>大黄狗阅后即焚 如何写一篇文章 转到Souland目录，手动或者在终端执行cd ~/Souland命令 生成文章草稿，在Souland目录下在终端执行hugo new content/posts/[你的文档名字.md</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>soulise.github.io/about/</link>
-      <pubDate>Sat, 02 Sep 2023 02:19:58 +0800</pubDate>
-      
-      <guid>soulise.github.io/about/</guid>
-      <description>探索中的大黄狗</description>
     </item>
     
   </channel>
