@@ -1,4 +1,4 @@
-baseURL = "http://blog.soulise.ml/"
+baseURL = "soulise.github.io"
 languageCode = "zh-cn"
 defaultContentLanguage = "en"
 title = "自在狗咖"                        # site title                     # 网站标题
