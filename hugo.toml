@@ -63,9 +63,9 @@ pygmentscodefencesguesssyntax = true
 # Your socail's url
 # 社交地址配置
 [social]
-  github = " "
-  douban = " "
-  book = " "
+  github = "https://github.com/Soulise/"
+  douban = "https://www.douban.com/people/51271311/?_i=3405730zMVRPy7"
+  book = "https://www.xiaohongshu.com/user/profile/59a18bd082ec39550aa91e1b"
 
 [markup]
 [markup.goldmark]
