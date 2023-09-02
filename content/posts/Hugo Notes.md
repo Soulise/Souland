@@ -23,7 +23,7 @@ draft: false
 - 浏览器输入`https://soulise.github.io/Souland/`可以观摩一下自己的小站，查看最新的内容
 - 当上传不成功时：开启终端代理proxy，结束命令proxyOFF
 
-2. 接下来
+2. 接下来(todo)
 
 - 搜索一下hugo常用命令
 - 更改`Souland/hugo.toml`里面的配置来配置你的狗窝
