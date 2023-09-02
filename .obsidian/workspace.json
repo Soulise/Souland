@@ -11,8 +11,12 @@
             "id": "fe3e009c8e496c58",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/test.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/test.md"
+              }
             }
           }
         ]
@@ -146,10 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe3e009c8e496c58",
+  "active": "6a4cf6cb26066b69",
   "lastOpenFiles": [
-    "content/posts/test.md",
     "content/posts/dogbook.md",
+    "content/posts/test.md",
     "public/posts/dogbook/index.html",
     "public/posts/dogbook",
     "未命名 1.canvas",
