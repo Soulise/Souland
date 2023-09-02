@@ -1,12 +1,15 @@
 ---
-title: Test
+title: Hugo 学习笔记
 date: 2023-09-02T02:27:04+08:00
 tags:
-  - test
-draft: true
+  - Hugo
+  - 技能学习
+draft: false
 ---
 
-大黄狗阅后即焚 
+
+
+~~大黄狗阅后即焚~~
 
 
 
@@ -14,7 +17,7 @@ draft: true
 
 - 转到Souland目录，手动或者在终端执行`cd ~/Souland`命令
 - 生成文章草稿，在Souland目录下在终端执行`hugo new content/posts/[你的文档名字.md]`
-- 写完后预览效果，在终端执行`hugo server -D`，可以在浏览器打开`http://localhost:1313/`预览
+- 写完后预览效果，在终端执行`hugo server -D`，可以在浏览器打开`http://localhost:1313/`预览，加`--navigateToChanged`参数可以实时观察自己的更改
 - 修改啊草稿标志，果确认没有问题，就`cltr + c`终止预览，在博客最上面那个`draft: true` 改成`draft: false`，如果是草稿，网站是不会发布的，所以要改成非草稿
 - 发布到网站，输入命令`sh deploy.sh`发布到网站上，你可以在`https://github.com/Soulise/Souland/actions`上看到你的发布过程，一般1min不到
 - 浏览器输入`https://soulise.github.io/Souland/`可以观摩一下自己的小站，查看最新的内容

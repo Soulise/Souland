@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7ba1b6da4d94c6",
+        "id": "d2d52e9dbd299d99",
         "type": "tabs",
         "children": [
           {
-            "id": "fe3e009c8e496c58",
+            "id": "e8b3a5879f635e5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/Hugo Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/Hugo Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/test.md",
+                "file": "content/posts/Hugo Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/test.md"
+                "file": "content/posts/Hugo Notes.md"
               }
             }
           }
@@ -156,8 +156,11 @@
   },
   "active": "6a4cf6cb26066b69",
   "lastOpenFiles": [
+    "content/posts/Markdown学习.md",
+    "content/posts/Hugo Notes.md",
+    "content/about/index.md",
+    "content/post",
     "content/posts/dogbook.md",
-    "content/posts/test.md",
     "public/posts/dogbook/index.html",
     "public/posts/dogbook",
     "未命名 1.canvas",
